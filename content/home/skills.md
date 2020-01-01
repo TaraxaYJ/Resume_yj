@@ -27,9 +27,9 @@ subtitle = "Evaluation & Verification"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "robot"
+  icon_pack = "far"
+  name = "Robotics"
+  description = "80%"
 
 +++
