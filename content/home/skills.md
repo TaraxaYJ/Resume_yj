@@ -31,5 +31,11 @@ subtitle = "Evaluation & Verification"
   icon_pack = "far"
   name = "Robotics"
   description = "80%"
+  
+ [[feature]]
+  icon = "language"
+  icon_pack = "fal"
+  name = "Language"
+  description = "90%"
 
 +++
