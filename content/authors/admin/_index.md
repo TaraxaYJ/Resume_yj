@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yuanjiang Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate in SEIEE
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Shanghai Jiaotong University
+  url: "https://www.sjtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and complex modeling.
 
 interests:
 - Artificial Intelligence
