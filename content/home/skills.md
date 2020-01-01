@@ -34,7 +34,7 @@ subtitle = "Evaluation & Verification"
   
  [[feature]]
   icon = "language"
-  icon_pack = "fal"
+  icon_pack = "fas"
   name = "Language"
   description = "90%"
 
