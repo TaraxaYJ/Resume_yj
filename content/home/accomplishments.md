@@ -47,13 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-13"
   date_end = ""
 
-[[item]]
-  organization = "Shanghai Jiaotong University"
-  organization_url = "https://www.sjtu.edu.cn/"
-  title = "Excellent League Member"
-  date_start = "2019-5-13"
-  date_end = ""
-  
+
 
   
 
