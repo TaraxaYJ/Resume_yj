@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TaraxaYJ/
+- icon: weixin
+  icon_pack: fab
+ # link: https://github.com/TaraxaYJ/
  # - icon: weixin
   # icon_pack: fab
   # link
@@ -72,4 +75,4 @@ user_groups:
 
 - Yuanjiang Yang is a postgraduate of Control Science and Engineering Key Laboratory of System Control and Information Processing, Ministry of Education of China; Department of Automation, Shanghai Jiao Tong University, Shanghai 200240, P.R. China. His research interests include distributed robotics, mobile computing and complex mathematical modeling. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-- Since he enters the university, he always devotes himself into the academic research. Besides, not only does he get the high grade rank , but also he has been participating several major competitions and gets some satisfying results. Because of his talent and deligence, he has been rewarded with a lot of scholarships and honors. He believes that everyone can be a legend as long as one stick to it.
+- Since he enters the university, he always devotes himself into the academic research. Besides, not only does he get the high grade rank , but also he has been participating several major competitions and gets some satisfying results. Because of his talent and deligence, he has been rewarded with a lot of scholarships and honors. He believes that everyone can be a legend as long as one sticks to it.
