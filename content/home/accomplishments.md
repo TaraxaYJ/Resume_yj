@@ -99,6 +99,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
+  
 # 11
 [[item]]
   organization = "National Ministry of Education Examination Center"
@@ -107,17 +108,8 @@ date_format = "Jan 2006"
   date_start = "2014-12-17"
   date_end = ""
   description = ""
-  
-# 12
-[[item]]
-  organization = "National Ministry of Education Examination Center"
-  title = "College English Test Band 4 Certificate (CET4 539) "
-  url = ""
-  date_start = "2014-12-17"
-  date_end = ""
-  description = ""
 
-# 13
+# 12
 [[item]]
   #organization = "National Education Examinations Authority Ministry of Education of China"
   title = "Second-level Certificate for National Computer in C language Programming"
@@ -125,7 +117,113 @@ date_format = "Jan 2006"
   date_start = "2017-03-17"
   date_end = ""
   description = ""
-
   
+ # 13
+[[item]]
+  organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Second-level Certificate for National Computer in MS Ofiice Applications "
+  url = ""
+  date_start = "2017-03-17"
+  date_end = ""
+  description = ""
 
+# 14
+[[item]]
+  organization = "National Chinese Language Working Committee"
+  title = "Second-level in First Class for Fluent and Standard Native (grade: 90.5/100) "
+  url = ""
+  date_start = "2017-04-17"
+  date_end = ""
+  description = ""
+
+# 15
+[[item]]
+  organization = "Academic Administration of Hunan University"
+  title = "Excellent Student in Graduate Inter"
+  date_start = "2018-06-17"
+
+# 16
+[[item]]
+  organization = "Academic Administration of Hunan University"
+  title = "The First Prize in National Innovation and Training Program (SIT) "
+  date_start = "2018-06-17"
+
+# 17
+[[item]]
+  organization = "Hunan University"
+  title = "Outstanding Graduates Awards"
+  date_start = "2018-05-17"
+  
+# 18
+[[item]]
+  organization = "Hunan Provincial Department of Education"
+  title = "Outstanding Graduates Awards"
+  date_start = "2018-05-17"
+  
+# 19
+[[item]]
+  organization = "Hunan Provincial Department of Education"
+  title = "The Second Prize in National Electronic Design Contest"
+  date_start = "2017-11-17"
+  
+# 20
+[[item]]
+  organization = "Ministry of Education of the People's Republic of China"
+  title = "The National Scholarship (8000RMB)"
+  date_start = "2015-11-30"
+  
+# 21
+[[item]]
+  organization = "Hunan University"
+  title = "The Merit Student"
+  date_start = "2017-12-30"
+ 
+# 22
+[[item]]
+  organization = "Hunan University"
+  title = "The Excellent League Member"
+  date_start = "2017-05-30"
+  
+# 23
+[[item]]
+  organization = "Hunan University"
+  title = "The First Prize Scholarship (3000RMB) "
+  date_start = "2017-12-30"
+  
+# 24
+[[item]]
+  organization = "Hunan University"
+  title = "HUAWEI Scholarship (4000RMB) "
+  date_start = "2017-12-30"
+  
+# 25
+[[item]]
+  organization = "Hunan University"
+  title = "The Merit Student"
+  date_start = "2015-12-30"
+  
+# 26
+[[item]]
+  organization = "Hunan University"
+  title = "Excellent Student Cadre"
+  date_start = "2017-12-30"
+  
+ # 27
+[[item]]
+  organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Third-level Certificate for National Computer in Embedded System Development"
+  url = ""
+  date_start = "2018-03-17"
+  date_end = ""
+  description = ""
+
+
+ # 28
+[[item]]
+  organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Third-level Certificate for National Computer in Internet Techneque"
+  url = ""
+  date_start = "2018-03-17"
+  date_end = ""
+  description = ""
 +++
