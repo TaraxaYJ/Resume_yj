@@ -48,7 +48,7 @@ subtitle = "Evaluation & Verification"
   icon = "user-circle"
   icon_pack = "far"
   name = "Sociality"
-  description = "Chinese Native, Intermediate English"
+  description = "Responsible Attitude, Outstanding Leadship"
   
   
 
