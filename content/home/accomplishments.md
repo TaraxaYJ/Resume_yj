@@ -59,10 +59,10 @@ date_format = "Jan 2006"
   
  # 6 
 [[item]]
-  title = "Third price in IBM Master the Mainframe Global Contest"
+  organization = "Occupational Skill Testing Athority, Ministry of Human Resources and Social Security of P.R. China"
+  title = "The Intermediate Operator test of the Database Applications (SQL Sever) of CITT"
   url = ""
-  #certificate_url = "https://www.datacamp.com"
-  date_start = "2015-05-20"
+  date_start = "2019-03-14"
   date_end = ""
   description = ""
 
