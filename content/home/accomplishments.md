@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Shanghai Jiaotong University"
   organization_url = "https://www.sjtu.edu.cn/"
-  title = "Merit Student"
+  title = "The Merit Student"
   date_start = "2019-10-13"
   date_end = ""
  # 3 
@@ -226,4 +226,10 @@ date_format = "Jan 2006"
   date_start = "2018-03-17"
   date_end = ""
   description = ""
+  
+# 29
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  title = "The First Prize Scholarship (15000RMB) "
+  date_start = "2017-12-30"
 +++
