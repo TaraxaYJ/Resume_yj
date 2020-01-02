@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "My Honors and Rewards "
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -30,6 +30,13 @@ date_format = "Jan 2006"
   organization = "Shanghai Jiaotong University"
   organization_url = "https://www.sjtu.edu.cn/"
   title = "Merit Student"
+  date_start = "2019-10-13"
+  date_end = ""
+  
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = "HUAWEI Scholarship (8000RMB)"
   date_start = "2019-10-13"
   date_end = ""
   
