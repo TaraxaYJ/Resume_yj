@@ -29,6 +29,10 @@ subtitle = "The Important & Significant Items"
     tag = "Model"
 
   [[content.filter_button]]
+    name = "Innovation"
+    tag = "Innovation"
+  
+   [[content.filter_button]]
     name = "Task"
     tag = "Task"
   
