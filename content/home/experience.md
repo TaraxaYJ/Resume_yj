@@ -1,4 +1,12 @@
 +++
+gallery_item:
+- album:gallery
+image:wt.jpg
+caption: a caption
+
+- album: gallery
+image: https://github.com/TaraxaYJ/Resume_yj/blob/master/static/img/wt.jpg
+caption: another caption
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -26,6 +34,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
+  {{<gallery>}}
   
   * Analysing
   * Modelling
