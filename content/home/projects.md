@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "The Important & Significant Items"
 
 [content]
   # Page type to display. E.g. project.
@@ -25,36 +25,22 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
+    name = "Model"
+    tag = "Model"
 
   [[content.filter_button]]
-    name = "iOS"
-    tag = "iOS"
-  
-  #[[content.filter_button]]
-  #  name = "Android"
-  #  tag = "Android"
+    name = "Task"
+    tag = "Task"
   
   [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
+    name = "Contest"
+    tag = "Contest"
   
-  #[[content.filter_button]]
-  #  name = "Internship"
-  #  tag = "Internship"
-
-  #[[content.filter_button]]
-  #  name = "Competition"
-  #  tag = "Competition"
   
   [[content.filter_button]]
-    name = "School"
-    tag = "School"
+    name = "Algorithm"
+    tag =  "Algorithm"
 
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
