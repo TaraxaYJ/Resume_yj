@@ -1,5 +1,10 @@
++++
+
 widget = "featured"  # Use the Featured widget
 headless = true  # This file represents a page section.
+active = true
+weight = 10  # Order that this section will appear.
+
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -26,3 +31,4 @@ headless = true  # This file represents a page section.
   #   3 = Card
   #   4 = Citation (publication only)
   view = 3
++++
