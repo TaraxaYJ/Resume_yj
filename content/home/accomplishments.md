@@ -47,6 +47,26 @@ date_format = "Jan 2006"
   date_start = "2019-09-13"
   date_end = ""
 
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = "Excellent League Member"
+  date_start = "2019-5-13"
+  date_end = ""
+  
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = "Excellent League Member"
+  date_start = "2019-5-13"
+  date_end = ""
+  
+[[item]]
+  organization = "Occupational Skill Testing Athority, Ministry of Human Resources and Social Security of P.R. China"
+  organization_url = "http://www.mohrss.gov.cn/"
+  title = "The Intermediate Operator test of the Database Applications (SQL Sever) of CITT"
+  date_start = "2019-5-13"
+  date_end = ""
   
 
 
