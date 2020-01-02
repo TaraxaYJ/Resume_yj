@@ -11,7 +11,7 @@ summary = "A blog writing about software Development, Data Science and share som
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Task"]
+tags = ["Innovation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://data2art.com"
