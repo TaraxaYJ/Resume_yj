@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "China Postgraduate Mathematic Contest in Modeling"
-  title = "The 16th China Post-Graduate Mathematical Contest in Modeling"
+  organization_url = "https://cpipc.chinadegrees.cn/cw/hp/4"
+  title = "The 16th China Post-Graduate Mathematical Contest in Modeling (Second Prize, Ranked in 160/4195 )"
   date_start = "2019-12-01"
   date_end = ""
-  description = "The Second Prize"
 
 [[item]]
   organization = "edX"
