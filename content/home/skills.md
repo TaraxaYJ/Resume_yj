@@ -27,8 +27,8 @@ subtitle = "Evaluation & Verification"
   description = "Know the fundamental instructions"  
   
 [[feature]]
-  icon = "robot"
-  icon_pack = "fad"
+  icon = "car-mechanic"
+  icon_pack = "fal"
   name = "Robotics"
   description = "ROS (Robot Operation System)"
   
