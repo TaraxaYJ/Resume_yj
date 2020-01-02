@@ -48,14 +48,12 @@ date_format = "Jan 2006"
   date_end = ""
 
 [[item]]
-  #organization = "DataCamp"
-  #organization_url = "https://www.datacamp.com"
-  title = "First Price in Smart Campus application competition of CQU"
-  url = ""
-  #certificate_url = "https://www.datacamp.com"
-  date_start = "2015-05-10"
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = "Excellent League Member"
+  date_start = "2019-5-13"
   date_end = ""
-  description = ""
+  
 [[item]]
   #organization = "DataCamp"
   #organization_url = "https://www.datacamp.com"
