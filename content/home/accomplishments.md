@@ -32,19 +32,7 @@ date_format = "Jan 2006"
   date_start = "2019-9-13"
   date_end = ""
 
-[[item]]
-  organization = "Shanghai Jiaotong University"
-  organization_url = "https://www.sjtu.edu.cn/"
-  title = "Merit Student"
-  date_start = "2019-10-13"
-  date_end = ""
-  
- [[item]]
-  organization = "Shanghai Jiaotong University"
-  organization_url = "https://www.sjtu.edu.cn/"
-  title = "HUAWEI Scholarship (8000RMB)"
-  date_start = "2019-10-13"
-  date_end = ""
+
 
 
 +++
