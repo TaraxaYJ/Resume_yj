@@ -27,7 +27,7 @@ subtitle = "Evaluation & Verification"
   description = "Know the fundamental instructions"  
   
 [[feature]]
-  icon = "desktop"
+  icon = "fa-desktop"
   icon_pack = "fal"
   name = "Robotics"
   description = "ROS (Robot Operation System)"
