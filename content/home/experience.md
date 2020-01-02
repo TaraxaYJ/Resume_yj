@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "My Education and Occupation in School"
+subtitle = "My Education and Occupation in School over past several years"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Postgraduate & Secretary of the Youth League Branch Committee (GPA: 3.73/4.0)"
+  title = "Postgraduate & League Branch Secretary (GPA: 3.73/4.0)"
   company = "Shanghai Jiaotong University"
   company_url = "https://www.sjtu.edu.cn/"
   location = "Shanghai China"
