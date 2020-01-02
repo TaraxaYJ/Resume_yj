@@ -51,7 +51,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TaraxaYJ/
- - icon: fa-weixin
+ - icon: weixin
    icon_pack: fab
   # link
 # Link to a PDF of your resume/CV from the About widget.
