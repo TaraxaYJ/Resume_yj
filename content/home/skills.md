@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Skills and Quality Performance"
 subtitle = "Evaluation & Verification"
 
 # Showcase personal skills or business features.
@@ -18,24 +18,30 @@ subtitle = "Evaluation & Verification"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "Familiar with machine learning"
   
 [[feature]]
   icon = "ubuntu"
   icon_pack = "fab"
   name = "Linux"
-  description = "100%"  
+  description = "Know the fundamental instructions"  
   
 [[feature]]
-  icon = "robot"
+  icon = "user-robot"
   icon_pack = "far"
   name = "Robotics"
-  description = "80%"
+  description = "ROS (Robot Operation System)"
   
  [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Language"
-  description = "90%"
+  description = "Chinese Native, Intermediate English"
+  
+ [[feature]]
+  icon = "user-circle"
+  icon_pack = "far"
+  name = "Sociality"
+  description = "Chinese Native, Intermediate English"
 
 +++
