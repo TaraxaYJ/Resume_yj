@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "My education and occupation both in school and society"
+subtitle = "My Education and Occupation in School"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergraduate & Monitor "
+  title = "Undergraduate & Monitor (GPA: 3.80/4.0)"
   company = "Hunan University"
   company_url = "https://www.hnu.edu.cn/"
   location = "Changsha Hunan"
@@ -33,12 +33,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Postgraduate & League Branch Secretary"
+  title = "Postgraduate & Secretary of the Youth League Branch Committee (GPA: 3.73/4.0)"
   company = "Shanghai Jiaotong University"
   company_url = "https://www.sjtu.edu.cn/"
   location = "Shanghai China"
   date_start = "2018-09-01"
   date_end = ""
-  description = """Devote into Academic Research and Experience Competition, Join the Venture Club"""
+  description = """
+  Major Activities include:
+ * Devote into Academic Research 
+ * Experience Competition 
+ * Join the Venture Club
+ """
 
 +++
