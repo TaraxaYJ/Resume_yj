@@ -7,12 +7,7 @@ layout = "project"
 title = "Qt5.0 Designed For Interface Between Robot and Computer"
 
 # Project summary to display on homepage.
-summary = """
-Designed and implemented a debugged automatic summary system<br>
-1). Collected and preprocessed the Robot topic data set<br>
-2). Used Hybrid TF-IDF and TextRank etc. algorithms to summarize different topic sets and compared the performance through ROUGE evaluation<br>
-3). Implemented a Web System using Bootstrap and Flask framework<br>
-"""
+summary = "Designed and implemented a debugged automatic summary system."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
