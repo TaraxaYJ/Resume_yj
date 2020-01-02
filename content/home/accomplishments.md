@@ -18,42 +18,42 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
-[[item]]
+# 1
+[[item]]  
   organization = "2019 Data Intelligence Algorithm Competition"
   organization_url = "https://www.dcjingsai.com/common/cmptIndex.html"
   title = "2019 Intelligent Data Algorithm Competition (Winning award, Ranked in 17/696 )"
   date_start = "2019-12-01"
   date_end = ""
-  
+# 2  
 [[item]]
   organization = "Shanghai Jiaotong University"
   organization_url = "https://www.sjtu.edu.cn/"
   title = "Merit Student"
   date_start = "2019-10-13"
   date_end = ""
-  
+ # 3 
 [[item]]
   organization = "Shanghai Jiaotong University"
   organization_url = "https://www.sjtu.edu.cn/"
   title = "HUAWEI Scholarship (8000RMB)"
   date_start = "2019-10-13"
   date_end = ""
-  
+# 4  
 [[item]]
   organization = "China Postgraduate Mathematical Contest in Modeling"
   organization_url = "https://cpipc.chinadegrees.cn/cw/hp/4"
   title = "The 16th China Post-graduate Mathematical Contest in Modeling (Second Prize, Ranked in 160/4195)"
   date_start = "2019-09-13"
   date_end = ""
-
+# 5
 [[item]]
-  organization = "Shanghai Jiaotong University"
-  organization_url = "https://www.sjtu.edu.cn/"
-  title = "Excellent League Member"
+  # organization = "Shanghai Jiaotong University"
+  # organization_url = "https://www.sjtu.edu.cn/"
+  title = "Shanghai Jiaotong University Excellent League Member"
   date_start = "2019-5-13"
   date_end = ""
-  
+ # 6 
 [[item]]
   #organization = "DataCamp"
   #organization_url = "https://www.datacamp.com"
