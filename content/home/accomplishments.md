@@ -51,8 +51,12 @@ date_format = "Jan 2006"
   # organization = "Shanghai Jiaotong University"
   # organization_url = "https://www.sjtu.edu.cn/"
   title = "Shanghai Jiaotong University Excellent League Member"
-  date_start = "2019-5-13"
+  url = ""
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-13"
   date_end = ""
+  description = ""
+  
  # 6 
 [[item]]
   #organization = "DataCamp"
