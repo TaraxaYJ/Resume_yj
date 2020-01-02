@@ -66,19 +66,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-# 88888888
-[[item]]
-  organization = "Shanghai Jiaotong University"
-  title = "Freshman in Excellent League Member "
-  url = ""
-  date_start = "2017-10-11"
-  date_end = ""
-  description = ""
-  
  # 7
 [[item]]
   organization = "Shanghai Jiaotong University"
-  title = "Freshman in Excellent League Member "
+  title = "Excellent Freshman in Students Affairs Department "
   url = ""
   date_start = "2018-10-11"
   date_end = ""
@@ -86,16 +77,84 @@ date_format = "Jan 2006"
 
 # 8
 [[item]]
-  organization = "Shanghai Jiaotong University"
-  title = "Freshman in Excellent League Member "
+  organization = "Academic Administration, Hunan University"
+  title = "The Third Prize in The first Course of English Speaking Contest "
   url = ""
-  date_start = "2018-10-11"
+  date_start = "2016-5-11"
   date_end = ""
   description = ""
 
+# 9
+[[item]]
+  organization = "Academic Administration, Hunan University"
+  title = "The Third Prize in The first Course of English Speaking Contest "
+  url = ""
+  date_start = "2016-5-11"
+  date_end = ""
+  description = ""
   
+# 10
+[[item]]
+  organization = "National Students' Platform for Innovation and Entrepreneurship Training"
+  title = "Multi-rotor Image Tracking Project Demonstration in Annual Celebration "
+  url = ""
+  date_start = "2017-11-17"
+  date_end = ""
+  description = ""
 
+# 11
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 6 Certificate (CET6 520) "
+  url = ""
+  date_start = "2015-6-17"
+  date_end = ""
+  description = ""
 
+# 12
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 4 Certificate (CET4 539) "
+  url = ""
+  date_start = "2014-12-17"
+  date_end = ""
+  description = ""
+
+# 13
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 4 Certificate (CET4 539) "
+  url = ""
+  date_start = "2014-12-17"
+  date_end = ""
+  description = ""
+
+# 14
+[[item]]
+  organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Second-level Certificate for National Computer in C language Programming"
+  url = ""
+  date_start = "2017-3-17"
+  date_end = ""
+  description = ""
+  
+# 15
+[[item]]
+  organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Second-level Certificate for National Computer in MS Ofiice Applications "
+  url = ""
+  date_start = "2017-3-17"
+  date_end = ""
+  description = ""
+
+# 16
+[[item]]
+  organization = "National Chinese Language Working Committee"
+  title = "Second-level in First Class for Fluent and Standard Native (grade: 90.5/100) "
+  url = ""
+  date_start = "2017-4-17"
+  date_end = ""
+  description = ""
 
 
 +++
