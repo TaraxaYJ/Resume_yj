@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "For the Important & Significant Items"
 
 [content]
   # Page type to display. E.g. project.
@@ -18,43 +18,8 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+ # filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
-
-  [[content.filter_button]]
-    name = "iOS"
-    tag = "iOS"
-  
-  #[[content.filter_button]]
-  #  name = "Android"
-  #  tag = "Android"
-  
-  [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
-  
-  #[[content.filter_button]]
-  #  name = "Internship"
-  #  tag = "Internship"
-
-  #[[content.filter_button]]
-  #  name = "Competition"
-  #  tag = "Competition"
-  
-  [[content.filter_button]]
-    name = "School"
-    tag = "School"
-
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -75,8 +40,8 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
-  # Background color.
-  # color = "navy"
+   Background color.
+   color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -87,7 +52,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
