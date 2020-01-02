@@ -47,7 +47,24 @@ date_format = "Jan 2006"
   date_start = "2019-09-13"
   date_end = ""
 
-
+[[item]]
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "First Price in Smart Campus application competition of CQU"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-10"
+  date_end = ""
+  description = ""
+[[item]]
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "Third price in IBM Master the Mainframe Global Contest"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-20"
+  date_end = ""
+  description = ""
 
   
 
