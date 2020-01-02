@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Institute of Electrical and Electronics Engineers*"
-publication_short = "In *IEEE*"
+publication_short = "In *Institute of Electrical and Electronics Engineers (IEEE)*"
 
 # Abstract.
 abstract = "In this paper, we investigate the design of  multi-robot warehouse automation systems with complex high-level tasks. We consider a warehouse environment where a group of AGVs moving in a grid-partitioned workspace to deliver goods upon requests automatically. The design objective is to synthesize a high-level controller/planner that coordinates the multi-robot system to fulfill the entire task. We use linear temporal logic (LTL) formulas to describe the desired task specifications. Then the controller is generated automatically based on the LTL formula using the theory of reactive synthesis. Compared with most of the existing planning algorithms for warehouse systems, the proposed method is formal in the sense that: (i) the controller is correct-by-construction with provably satisfication guarantees; (ii) it can handle complex temporal tasks in a  user-friendly manner; (iii) our framework can also handle the situation of multiple robots with multiple requests. Finally, we implement the proposed synthesis procedure and illustrate our results for multi-robot systems by simulations. "
