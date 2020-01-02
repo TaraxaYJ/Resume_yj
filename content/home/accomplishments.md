@@ -48,19 +48,17 @@ date_format = "Jan 2006"
   date_end = ""
 # 5
 [[item]]
-  # organization = "Shanghai Jiaotong University"
+  organization = "Shanghai Jiaotong University"
   # organization_url = "https://www.sjtu.edu.cn/"
   title = "Shanghai Jiaotong University Excellent League Member"
   url = ""
   # certificate_url = "https://www.datacamp.com"
-  date_start = "2015-05-13"
+  date_start = "2019-05-13"
   date_end = ""
   description = ""
   
  # 6 
 [[item]]
-  #organization = "DataCamp"
-  #organization_url = "https://www.datacamp.com"
   title = "Third price in IBM Master the Mainframe Global Contest"
   url = ""
   #certificate_url = "https://www.datacamp.com"
