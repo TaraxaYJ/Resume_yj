@@ -80,6 +80,51 @@ date_format = "Jan 2006"
   organization = "Academic Administration of Hunan University"
   title = "The Third Prize in The first Course of English Speaking Contest "
   date_start = "2016-05-11"
+  
+# 9
+[[item]]
+  organization = "National Students' Platform for Innovation and Entrepreneurship Training"
+  title = "Multi-rotor Image Tracking Project Demonstration in Annual Celebration "
+  url = ""
+  date_start = "2017-11-17"
+  date_end = ""
+  description = ""
+  
+# 10
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 6 Certificate (CET6 520) "
+  url = ""
+  date_start = "2015-06-17"
+  date_end = ""
+  description = ""
+  
+# 11
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 4 Certificate (CET4 539) "
+  url = ""
+  date_start = "2014-12-17"
+  date_end = ""
+  description = ""
+  
+# 12
+[[item]]
+  organization = "National Ministry of Education Examination Center"
+  title = "College English Test Band 4 Certificate (CET4 539) "
+  url = ""
+  date_start = "2014-12-17"
+  date_end = ""
+  description = ""
+
+# 13
+[[item]]
+  #organization = "National Education Examinations Authority Ministry of Education of China"
+  title = "Second-level Certificate for National Computer in C language Programming"
+  url = ""
+  date_start = "2017-03-17"
+  date_end = ""
+  description = ""
 
   
 
