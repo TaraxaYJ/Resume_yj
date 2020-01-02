@@ -231,5 +231,5 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Shanghai Jiaotong University"
   title = "The First Prize Scholarship (15000RMB) "
-  date_start = "2017-12-30"
+  date_start = "2019-11-30"
 +++
