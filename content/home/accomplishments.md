@@ -75,20 +75,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-# 8
-[[item]]
-  organization = "Academic Administration, Hunan University"
-  title = "The Third Prize in The first Course of English Speaking Contest "
-  url = ""
-  date_start = "2016-5-11"
-  date_end = ""
-  description = ""
+
   
-
-
-
-
-
-
 
 +++
