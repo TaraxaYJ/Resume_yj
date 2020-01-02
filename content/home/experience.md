@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergraduate & Monitor (GPA: 3.80/4.0)"
+  title = "Undergraduate & Monitor (GPA: 3.80)"
   company = "Hunan University"
   company_url = "https://www.hnu.edu.cn/"
   location = "Changsha Hunan"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Postgraduate & League Branch Secretary (GPA: 3.73/4.0)"
+  title = "Postgraduate & League Branch Secretary (GPA: 3.73)"
   company = "Shanghai Jiaotong University"
   company_url = "https://www.sjtu.edu.cn/"
   location = "Shanghai China"
