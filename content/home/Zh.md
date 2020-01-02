@@ -1,5 +1,3 @@
-+++
-
 widget = "hero"
 headless = true  # This file represents a page section.
 
@@ -24,5 +22,3 @@ hero_media = ""
 # Note. An optional note to show underneath the links.
 [cta_note] 
   label = ""
-  
- +++
