@@ -27,13 +27,13 @@ subtitle = "Evaluation & Verification"
   description = "Know the fundamental instructions"  
   
 [[feature]]
-  icon = "fa-user-robot"
+  icon = "robot"
   icon_pack = "fad"
   name = "Robotics"
   description = "ROS (Robot Operation System)"
   
 [[feature]]
-  icon = "fa-keyboard"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "Software Development"
   description = "Familiar with C/C++"
