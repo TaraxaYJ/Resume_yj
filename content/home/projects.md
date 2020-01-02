@@ -3,7 +3,9 @@
 widget = "featured"  # Use the Featured widget
 headless = true  # This file represents a page section.
 active = true
-weight = 10  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
+
+title ="This is for subject"
 
 
 # ... Put Your Section Options Here (title etc.) ...
