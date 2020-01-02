@@ -65,6 +65,33 @@ date_format = "Jan 2006"
   date_start = "2019-03-14"
   date_end = ""
   description = ""
+  
+# 88888888
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  title = "Freshman in Excellent League Member "
+  url = ""
+  date_start = "2017-10-11"
+  date_end = ""
+  description = ""
+  
+ # 7
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  title = "Freshman in Excellent League Member "
+  url = ""
+  date_start = "2018-10-11"
+  date_end = ""
+  description = ""
+
+# 8
+[[item]]
+  organization = "Shanghai Jiaotong University"
+  title = "Freshman in Excellent League Member "
+  url = ""
+  date_start = "2018-10-11"
+  date_end = ""
+  description = ""
 
   
 
