@@ -19,30 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "2019 Data Intelligence Algorithm Competition"
+  organization_url = "https://www.dcjingsai.com/common/cmptIndex.html"
+  title = "2019 Intelligent Data Algorithm Competition (Winning award, Ranked in 17/696 )"
+  date_start = "2019-12-01"
+  date_end = ""
+  
+[[item]]
   organization = "China Postgraduate Mathematic Contest in Modeling"
   organization_url = "https://cpipc.chinadegrees.cn/cw/hp/4"
   title = "The 16th China Post-Graduate Mathematical Contest in Modeling (Second Prize, Ranked in 160/4195 )"
-  date_start = "2019-12-01"
+  date_start = "2019-9-13"
   date_end = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = "Merit Student"
+  date_start = "2019-10-13"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+ [[item]]
+  organization = "Shanghai Jiaotong University"
+  organization_url = "https://www.sjtu.edu.cn/"
+  title = ""HUAWEI Scholarship (8000RMB)""
+  date_start = "2019-10-13"
+  date_end = ""
+
 
 +++
