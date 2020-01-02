@@ -27,10 +27,16 @@ subtitle = "Evaluation & Verification"
   description = "Know the fundamental instructions"  
   
 [[feature]]
-  icon = "user-robot"
-  icon_pack = "far"
+  icon = "fa-user-robot"
+  icon_pack = "fad"
   name = "Robotics"
   description = "ROS (Robot Operation System)"
+  
+[[feature]]
+  icon = "fa-keyboard"
+  icon_pack = "fas"
+  name = "Software Development"
+  description = "Familiar with C/C++"
   
  [[feature]]
   icon = "language"
@@ -43,5 +49,7 @@ subtitle = "Evaluation & Verification"
   icon_pack = "far"
   name = "Sociality"
   description = "Chinese Native, Intermediate English"
+  
+  
 
 +++
